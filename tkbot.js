@@ -7,7 +7,7 @@ require("./util/eventLoader")(client);
 
 
 client.ayarlar = {
-  token: "NjkzNzQ2ODI1ODczODUwMzk4.XoBkFA.UO4P-ZAgHMMdHH_Ge7ac3NwwBF4",
+  token: "",
   prefix: "!",
   sahip: "231493562284376064",
   oynuyor: "Oynuyor Kısmı",
