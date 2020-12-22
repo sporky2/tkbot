@@ -1,0 +1,30 @@
+{
+  "name": "tkbot",
+  "version": "0.0.2",
+  "description": "Türk Kahvesi Discord Sunucusu İçin Özel Yapım Discord Botu",
+  "main": "tkbot.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "cowsay": "^1.4.0",
+    "discord-giveaways": "^3.2.3",
+    "discord.js": "^11.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "node-superfetch": "^0.1.10",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3",
+    "superagent": "^6.1.0",
+    "yodasay": "^1.1.9"
+  },
+  "scripts": {
+    "test": "!istatistik"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/BestInSpire/tkbot"
+  },
+  "author": "BestInSpire#4309",
+  "license": "MIT"
+}
